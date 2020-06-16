@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>GestionDePersonas.BL</AssemblyName>
+    <RootNamespace>GestionDePersonas.BL</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GestionDePersonas.DA\GestionDePersonas.DA.csproj" />
+  </ItemGroup>
+
+</Project>
