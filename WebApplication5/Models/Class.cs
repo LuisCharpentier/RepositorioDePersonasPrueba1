@@ -7,5 +7,7 @@ namespace GestionDePersonas.UI.Models
 {
     public class Class
     {
+        public int MyProperty { get; set; }
+        
     }
 }
